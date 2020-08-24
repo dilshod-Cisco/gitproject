@@ -22,3 +22,5 @@ Git collaboration with GitHub
 - git push 
 - git set origin upstream master
 
+Changes from GitHub
+
