@@ -18,12 +18,10 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 Git collaboration with GitHub
 
-
 - git push 
 - git set origin upstream master
 
-Changes from GitHub
-
+-Changes from GitHub
 - changes form my pc before getting Github changes
 
 
