@@ -22,3 +22,8 @@ Git collaboration with GitHub
 - git push 
 - git set origin upstream master
 
+Changes from GitHub
+
+- changes form my pc before getting Github changes
+
+
